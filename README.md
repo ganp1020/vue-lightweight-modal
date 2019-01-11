@@ -1,4 +1,8 @@
-# test
+# vue-lightweight-modal
+
+
+#### 学习elementUI源码，实现一个弹框
+
 
 ## Project setup
 ```
